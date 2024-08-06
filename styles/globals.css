@@ -1,0 +1,152 @@
+@import url("../public/css/bootstrap.min.css");
+@import url("../public/css/splide.min.css");
+@import url("../public/css/main.css");
+
+/* //LOADER */
+.new-loader-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #17142abb; /* Semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* Ensure it covers other content */
+}
+
+/* From Uiverse.io by mobinkakei */
+.new-wrapper {
+  width: 200px;
+  height: 60px;
+  position: relative;
+  z-index: 1;
+}
+
+.new-circle {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #fff;
+  left: 15%;
+  transform-origin: 50%;
+  animation: circle7124 0.5s alternate infinite ease;
+}
+
+@keyframes circle7124 {
+  0% {
+    top: 60px;
+    height: 5px;
+    border-radius: 50px 50px 25px 25px;
+    transform: scaleX(1.7);
+  }
+
+  40% {
+    height: 20px;
+    border-radius: 50%;
+    transform: scaleX(1);
+  }
+
+  100% {
+    top: 0%;
+  }
+}
+
+.new-circle:nth-child(2) {
+  left: 45%;
+  animation-delay: 0.2s;
+}
+
+.new-circle:nth-child(3) {
+  left: auto;
+  right: 15%;
+  animation-delay: 0.3s;
+}
+
+.new-shadow {
+  width: 20px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: absolute;
+  top: 62px;
+  transform-origin: 50%;
+  z-index: -1;
+  left: 15%;
+  filter: blur(1px);
+  animation: shadow046 0.5s alternate infinite ease;
+}
+
+@keyframes shadow046 {
+  0% {
+    transform: scaleX(1.5);
+  }
+
+  40% {
+    transform: scaleX(1);
+    opacity: 0.7;
+  }
+
+  100% {
+    transform: scaleX(0.2);
+    opacity: 0.4;
+  }
+}
+
+.new-shadow:nth-child(4) {
+  left: 45%;
+  animation-delay: 0.2s;
+}
+
+.new-shadow:nth-child(5) {
+  left: auto;
+  right: 15%;
+  animation-delay: 0.3s;
+}
+
+/* //MARGIN BOTTOM */
+
+.new-margin {
+  margin-bottom: 5rem;
+}
+
+/* For WebKit browsers */
+.scrollable-div::-webkit-scrollbar {
+  width: 10px; /* Width of the entire scrollbar */
+  height: 10px; /* Height of the entire scrollbar */
+}
+
+.scrollable-div::-webkit-scrollbar-track {
+  background: transparent; /* Transparent track background */
+}
+
+.scrollable-div::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2); /* Semi-transparent thumb background */
+  border-radius: 10px; /* Rounded corners for the thumb */
+}
+
+.scrollable-div::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3); /* Slightly darker on hover */
+}
+
+/* For Firefox */
+.scrollable-div {
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent; /* Thumb color and track color */
+  scrollbar-width: thin; /* Thin scrollbar */
+}
+
+/* //ADMIN */
+.new-loader-wrapper-admin {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #17142af8; /* Semi-transparent background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* Ensure it covers other content */
+}

@@ -1,0 +1,22 @@
+<svg width="67" height="67" viewBox="0 0 67 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_151_116" fill="white">
+<path d="M37 56L11 56L11 30C25.3594 30 37 41.6406 37 56Z"/>
+</mask>
+<path d="M37 56L11 56L37 56ZM11 28C26.464 28 39 40.536 39 56L35 56C35 42.7452 24.2548 32 11 32L11 28ZM11 28C26.464 28 39 40.536 39 56L35 56C35 42.7452 24.2548 32 11 32L11 28ZM11 56L11 30L11 56Z" fill="white" fill-opacity="0.05" mask="url(#path-1-inside-1_151_116)"/>
+<line x1="10" y1="9.93477e-08" x2="10" y2="32" stroke="url(#paint0_linear_151_116)" stroke-width="2"/>
+<line x1="35" y1="57" x2="67" y2="57" stroke="url(#paint1_linear_151_116)" stroke-width="2"/>
+<circle cx="10" cy="57" r="9" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+<line x1="10" y1="53" x2="10" y2="61" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+<line x1="6" y1="57" x2="9" y2="57" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+<line x1="11" y1="57" x2="14" y2="57" stroke="white" stroke-opacity="0.05" stroke-width="2"/>
+<defs>
+<linearGradient id="paint0_linear_151_116" x1="10" y1="32" x2="10" y2="1.86992e-09" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.05"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_151_116" x1="35" y1="58" x2="67" y2="58" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.05"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

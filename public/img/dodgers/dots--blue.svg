@@ -1,0 +1,8 @@
+<svg width="74" height="74" viewBox="0 0 74 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="44" cy="2" r="2" fill="#4399FC"/>
+<circle cx="58" cy="2" r="2" fill="#4399FC" fill-opacity="0.5"/>
+<circle cx="72" cy="2" r="2" fill="#4399FC" fill-opacity="0.25"/>
+<circle cx="2" cy="44" r="2" transform="rotate(90 2 44)" fill="#4399FC"/>
+<circle cx="2" cy="58" r="2" transform="rotate(90 2 58)" fill="#4399FC" fill-opacity="0.5"/>
+<circle cx="2" cy="72" r="2" transform="rotate(90 2 72)" fill="#4399FC" fill-opacity="0.25"/>
+</svg>
