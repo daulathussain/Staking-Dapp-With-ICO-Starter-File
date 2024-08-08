@@ -12,11 +12,11 @@ By the end of this video, you'll have a fully functional DApp capable of staking
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-medical-health-management-blockchain-dapp-or-solidity-hardhat-next.js-context-ap-and-web3-providers)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-a-token-staking-dapp-and-earn-rewards-on-any-blockchain)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
+- [Final Code Setup video](https://youtu.be/VaIf4wkzl4c?si=xNvjLuauIxmq87IP)
 
 ```
   WATCH: Setup & Demo Of Project
@@ -40,6 +40,7 @@ Kindly follow the following Instructions to run the project in your system and i
 #### ALL SOURCE CODE
 
 ```
+PROJECT CODE: https://www.theblockchaincoders.com/sourceCode/create-a-token-staking-dapp-and-earn-rewards-on-any-blockchain
  URL: https://www.theblockchaincoders.com/SourceCode
   GET: Project Starter File Download
 ```
