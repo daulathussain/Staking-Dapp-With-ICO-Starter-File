@@ -16,6 +16,7 @@
     "@nextui-org/react": "^1.0.0-beta.9",
     "@rainbow-me/rainbowkit": "^0.4.6",
     "ethers": "^5.7.2",
+    "lodash": "^4.17.21",
     "next": "13.4.13",
     "react": "18.2.0",
     "react-dom": "18.2.0",

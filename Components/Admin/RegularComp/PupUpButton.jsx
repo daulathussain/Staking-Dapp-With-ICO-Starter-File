@@ -1,7 +1,11 @@
 import React from "react";
 
-const PupUpButton = () => {
-  return <div>PupUpButton</div>;
+const PupUpButton = ({ title, handleClick }) => {
+  return (
+    <button type="button" className="form__btn" onClick={handleClick}>
+      {title}
+    </button>
+  );
 };
 
 export default PupUpButton;

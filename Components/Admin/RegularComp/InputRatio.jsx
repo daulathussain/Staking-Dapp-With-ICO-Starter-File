@@ -1,7 +1,12 @@
 import React from "react";
 
-const InputRatio = () => {
-  return <div>InputRatio</div>;
+const InputRatio = ({ index, value }) => {
+  return (
+    <li>
+      <input type="radio" id={`type-${index}`} />
+      <label htmlFor={`type${index}`}>{value}</label>
+    </li>
+  );
 };
 
 export default InputRatio;
